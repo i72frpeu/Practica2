@@ -1,4 +1,4 @@
-# Historia de usuario 1.#
+# Historia de usuario 1.
 
 ## **(Anverso)**
 
