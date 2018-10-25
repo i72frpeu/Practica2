@@ -19,7 +19,7 @@
 
 ## Postcondición:
 
-	* El sistema creará la copia de seguridad.
+* El sistema creará la copia de seguridad.
 
 ## Flujo alternativo:
 

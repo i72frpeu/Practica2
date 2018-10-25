@@ -20,7 +20,7 @@
 
 ## Postcondición:
 
-  * El sistema muestra los datos por pantalla.
+* El sistema muestra los datos por pantalla.
 
 ## Flujo alternativo:
 

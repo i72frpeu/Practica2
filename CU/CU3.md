@@ -21,7 +21,7 @@
 
 ## Postcondición:
 
-  * El sistema realizará la operación correspondiente.
+* El sistema realizará la operación correspondiente.
 
 ## Flujo alternativo:
 

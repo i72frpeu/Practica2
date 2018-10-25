@@ -20,7 +20,7 @@
 
 ## Postcondición:
 
-  * El sistema guarda los datos introducidos.
+* El sistema guarda los datos introducidos.
 
 ## Flujo alternativo:
 

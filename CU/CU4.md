@@ -21,7 +21,7 @@
 
 ## Postcondición:
 
-  * El sistema sobreescribirá los datos.
+* El sistema sobreescribirá los datos.
 
 ## Flujo alternativo:
 

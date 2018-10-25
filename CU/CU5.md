@@ -21,7 +21,7 @@
 
 ## Postcondición:
 
-	* El sistema borrará los datos.
+* El sistema borrará los datos.
 
 ## Flujo alternativo:
 

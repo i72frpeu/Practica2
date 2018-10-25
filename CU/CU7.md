@@ -19,7 +19,7 @@
 
 ## Postcondición:
 
-	* El sistema cargará la copia de seguridad.
+* El sistema cargará la copia de seguridad.
 
 ## Flujo alternativo:
 
