@@ -1,6 +1,6 @@
-#Historia de usuario 2.
+# Historia de usuario 2.
 
-##**(Anverso)**
+## **(Anverso)**
 
 **ID:** 02 **Mostrar alumnos.**
 
@@ -8,7 +8,7 @@
 
 **Prioridad:** 1.
 
-##**(Reverso)**
+## **(Reverso)**
 	
 - Los datos se puedn mostrar en orden alfabetico ascendente y descendente, por nombre y apellidos.
 - Los datos se pueden mostrar en orden numérico ascendente y descendente respecto al DNI.

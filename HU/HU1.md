@@ -1,6 +1,6 @@
-#Historia de usuario 1.#
+# Historia de usuario 1.#
 
-##**(Anverso)**
+## **(Anverso)**
 
 **ID:** 01 **Introducir alumnos.**
 
@@ -8,7 +8,7 @@
 
 **Prioridad:** 1.
 
-##**(Reverso)**
+## **(Reverso)**
 	
 - Al introducir un usuario, debes introducir obligatoriamente todos los parámetros menos "equipo" y "lider".
 - Si introduces un DNI o email que ya existe, mostrara un mensaje de error, y no se podrá introducir al alumno.

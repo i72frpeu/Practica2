@@ -1,6 +1,6 @@
-#Historia de usuario 3.
+# Historia de usuario 3.
 
-##**(Anverso)**
+## **(Anverso)**
 
 **ID:** 03 **Buscar alumnos.**
 
@@ -8,7 +8,7 @@
 
 **Prioridad:** 1.
 
-##**(Reverso)**
+## **(Reverso)**
 	
 - La busqueda se hará mediante el DNI, apellidos o email.
 - Si varios alumnos con el mismo apellido se mostraran todos.

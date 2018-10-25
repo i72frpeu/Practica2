@@ -1,10 +1,10 @@
-#Documento de extraccion de requisitos.
+# Documento de extraccion de requisitos.
 
-###**PARTES INTERESADAS:**
+### **PARTES INTERESADAS:**
 1. Profesor.
 2. Alumnos.
 
-###**DATOS QUE DEBE ALAMCENAR LA APLICACION.**
+### **DATOS QUE DEBE ALAMCENAR LA APLICACION.**
 1. DNI de los alumnos.
 2. Nombre y apellidos de los alumnos.
 3. Telefono de los alumnos.
@@ -16,7 +16,7 @@
 9. Lider del grupo de trabajo de los alumnos.
 10. Nota de los alumnos.
 
-###**REQUISITOS FUNCIONALES.**
+### **REQUISITOS FUNCIONALES.**
 ~~~
 Prioridad 1: Introducir alumnos.
 Prioridad 1: Mostrar alumnos.
@@ -31,7 +31,7 @@ Prioridad 3: Realizar copia de seguridad.
 Prioridad 3: Cargar copia de seguridad.
 ~~~
 
-###**REQUISITOS NO FUNCIONALES.**
+### **REQUISITOS NO FUNCIONALES.**
 - Programacion en C++, siendo compatible en LINUX.
 - Legnguaje de documentacion: MarkDown.
 - Ficheros de guardado de los alumnos en binario.

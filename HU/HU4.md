@@ -1,6 +1,6 @@
-#Historia de usuario 4.
+# Historia de usuario 4.
 
-##**(Anverso)**
+## **(Anverso)**
 
 **ID:** 04 **Modificar alumnos.**
 
@@ -8,6 +8,6 @@
 
 **Prioridad:** 2.
 
-##**(Reverso)**
+## **(Reverso)**
 	
 - Si al modificar el DNI o email de un alumno ya existente, se mostrará un mesaje de error y no guardará los cambios.

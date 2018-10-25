@@ -1,6 +1,6 @@
-#Historia de usuario 5.
+# Historia de usuario 5.
 
-##**Anverso)**
+## **Anverso)**
 
 **ID:** 05 **Borrar alumnos.**
 
@@ -8,6 +8,6 @@
 
 **Prioridad:** 2.
 
-##**(Reverso)**
+## **(Reverso)**
 	
 - El programa preguntara si el usuario quiere borrar los datos antes de realizar la operación.
