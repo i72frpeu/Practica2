@@ -1,6 +1,6 @@
-#Historia de usuario 6.
+# Historia de usuario 6.
 
-##**(Anverso)**
+## **(Anverso)**
 
 **ID:** 06 **Realizar copia de seguridad.**
 
@@ -8,7 +8,7 @@
 
 **Prioridad:** 3.
 
-##**(Reverso)**
+## **(Reverso)**
 	
 - El usuario hará de forma manual una copia de seguridad.
 - El programa preguntará si quiere guardar los datos antes de cerrarlo.
